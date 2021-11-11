@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.sac1 {
+  width: 300px;
+}
+.video {
+  width: 320px;
+}
+.div {
+  border: 1px black;
+  max-width: 100vw;
+  display: flex;
+  justify-content: center;
+  margin: 150px;
+}
